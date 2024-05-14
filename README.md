@@ -15,13 +15,12 @@ Welcome to the **Climate extremes and natural disasters** repository, an integra
 ## Documentation
 - Access detailed documentation on our [GitHub Pages site](https://your-gh-pages-url/).
 
-
 ## Group Members
 - Member 1:
   - Name: Ayush Joshi
   - Pronouns : He/Him
-  - 
-- Member 2: Brief description
+  - Expertise: Quaternry Geochronology, Tectonic Geomorphology
+  - Environmental data science superpower: I research the dynamic interplay between tectonics and fluvial processes in shaping landscapes over 10-100 ka . Understanding how landscapes evolve is crucial, particularly given the significant impact of anthropogenic activities on watersheds. Predicting future landscape changes is essential for assessing their environmental and ecological implications. Environmental data science can offer a powerful toolset, leveraging satellite and field data, to forecast these changes, informing decisions regarding urban expansion and other anthropogenic activities.
 - ...
 - [Link to more detailed bios or profiles if available and desired.]
 
