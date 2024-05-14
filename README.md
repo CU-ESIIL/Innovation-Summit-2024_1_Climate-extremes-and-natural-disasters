@@ -14,7 +14,10 @@ Welcome to the **Climate extremes and natural disasters** repository, an integra
 
 
 ## Group Members
-- Member 1: Brief description
+- Member 1:
+  - Name: Ayush Joshi
+  - Pronouns : He/Him
+  - 
 - Member 2: Brief description
 - ...
 - [Link to more detailed bios or profiles if available and desired.]
