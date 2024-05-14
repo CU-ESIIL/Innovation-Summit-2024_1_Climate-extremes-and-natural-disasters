@@ -13,9 +13,9 @@ Welcome to the **Climate extremes and natural disasters** repository, an integra
 This research project aims to conduct a comprehensive comparison of current precipitation flood risk derived from the Coupled Model Intercomparison Project (CMIP) and other relevant sources with the Social Vulnerability Index (SVI). The goal is to understand how projected changes in precipitation patterns can impact areas with varying degrees of social vulnerability. We also aim to identify the gaps and biases in the methods available to generate these models in order to determine how such models could fail. 
 
 The primary objectives of this project are:
-To evaluate and synthesize current precipitation flood risk predictions from CMIP datasets
-To assess the geographical correlation between these predictions and areas ranked on the SVI
-To identify regions at high risk of flooding that also exhibit high SVI, indicating a compounded potential for disaster
+- To evaluate and synthesize current precipitation flood risk predictions from CMIP datasets
+- To assess the geographical correlation between these predictions and areas ranked on the SVI
+- To identify regions at high risk of flooding that also exhibit high SVI, indicating a compounded potential for disaster
 
 
 ## Documentation
