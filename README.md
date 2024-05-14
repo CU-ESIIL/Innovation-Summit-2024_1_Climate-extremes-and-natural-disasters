@@ -10,7 +10,13 @@ Welcome to the **Climate extremes and natural disasters** repository, an integra
 #practice edit
 
 ## Our Project
-[Provide a brief overview of your project here.
+This research project aims to conduct a comprehensive comparison of current precipitation flood risk derived from the Coupled Model Intercomparison Project (CMIP) and other relevant sources with the Social Vulnerability Index (SVI). The goal is to understand how projected changes in precipitation patterns can impact areas with varying degrees of social vulnerability. We also aim to identify the gaps and biases in the methods available to generate these models in order to determine how such models could fail. 
+
+The primary objectives of this project are:
+To evaluate and synthesize current precipitation flood risk predictions from CMIP datasets
+To assess the geographical correlation between these predictions and areas ranked on the SVI
+To identify regions at high risk of flooding that also exhibit high SVI, indicating a compounded potential for disaster
+
 
 ## Documentation
 - Access detailed documentation on our [GitHub Pages site](https://your-gh-pages-url/).
@@ -24,7 +30,37 @@ Welcome to the **Climate extremes and natural disasters** repository, an integra
 - ...
 - [Link to more detailed bios or profiles if available and desired.]
 
+- Member 2:
+  -**Name:** Missy Westland
+  - **Pronouns:** She/Her
+  - **Affiliation** University of British Columbia, Atmospheric Science Masters 
+  - **Expertise:** Software Engineering, Machine Learning, Atmospheric Science, Data Science
+  - **Environmental Data Science Superpower:** ????
+  - **Reflection on Polarities Exercise:** Talk to myself too much
+
+- Member 3:  
+- **Name:** Nilima Islam Luba 
+  - **Pronouns:** She/Her
+  - **Affiliation** Florida International University, Earth System Science- PhD Candidate
+  - **Expertise:** GIS/Remote Sensing, Hazard and human interaction
+  - **Environmental Data Science Superpower:** Unknown
+  - **Reflection on Polarities Exercise:** Internal Processor?
+
+- Member 4: 
+  - **Name:** Mohammad Ahmadi
+  - **Pronouns:** He/His
+  - **Affiliation** Purdue University, Industrial Engineering/Civil Engineering- PhD Student
+  - **Expertise:** Flood Modeling, Machine Learning, Surrogate Modeling, GIS/RS
+  - **Environmental Data Science Superpower: Quantitative skills
+  - **Reflection on Polarities Exercise:** Do not Talk to myself at all
+
 ## Code Repository Structure
+- Digital elevation model (such as ALOS, 3DEP, or Lidar..)
+- Sentinel 2 satellite image (for extracting land use and land cover map)
+- Hydrometric data (can be obtained from USGS)
+- Future Climate projections-CMIP (over 50 or 100 years later)
+- Social Vulnerability Index (CDC-  https://www.atsdr.cdc.gov/placeandhealth/svi/data_documentation_download.html) 
+
 - **Data Processing**: Scripts for cleaning, merging, and managing datasets.
 - **Analysis Code**: Scripts for data analysis, statistical modeling, etc.
 - **Visualization**: Code for creating figures, charts, and interactive visualizations.
