@@ -51,7 +51,7 @@ The primary objectives of this project are:
   - **Pronouns:** He/His
   - **Affiliation** Purdue University, Industrial Engineering/Civil Engineering- PhD Student
   - **Expertise:** Flood Modeling, Machine Learning, Surrogate Modeling, GIS/RS
-  - **Environmental Data Science Superpower: Quantitative skills
+  - **Environmental Data Science Superpower:** Quantitative skills
   - **Reflection on Polarities Exercise:** Do not Talk to myself at all
 
 ## Code Repository Structure
