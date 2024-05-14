@@ -31,7 +31,7 @@ The primary objectives of this project are:
   - Reflection on polarities exercise: Yet to know myself fully!
 
 - Member 2:
-  -**Name:** Missy Westland
+  - **Name:** Missy Westland
   - **Pronouns:** She/Her
   - **Affiliation** University of British Columbia, Atmospheric Science Masters 
   - **Expertise:** Software Engineering, Machine Learning, Atmospheric Science, Data Science
@@ -39,7 +39,7 @@ The primary objectives of this project are:
   - **Reflection on Polarities Exercise:** Talk to myself too much
 
 - Member 3:  
-- **Name:** Nilima Islam Luba 
+  - **Name:** Nilima Islam Luba 
   - **Pronouns:** She/Her
   - **Affiliation** Florida International University, Earth System Science- PhD Candidate
   - **Expertise:** GIS/Remote Sensing, Hazard and human interaction
