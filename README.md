@@ -27,8 +27,6 @@ To identify regions at high risk of flooding that also exhibit high SVI, indicat
   - Pronouns : He/Him
   - Expertise: Quaternry Geochronology, Tectonic Geomorphology
   - Environmental data science superpower: I research the dynamic interplay between tectonics and fluvial processes in shaping landscapes over 10-100 ka . Understanding how landscapes evolve is crucial, particularly given the significant impact of anthropogenic activities on watersheds. Predicting future landscape changes is essential for assessing their environmental and ecological implications. Environmental data science can offer a powerful toolset, leveraging satellite and field data, to forecast these changes, informing decisions regarding urban expansion and other anthropogenic activities.
-- ...
-- [Link to more detailed bios or profiles if available and desired.]
 
 - Member 2:
   -**Name:** Missy Westland
