@@ -1,8 +1,8 @@
 from data_loader import *
 
 ## CMIP data
-def get_cmip():
+def get_fema():
     cmip_url = "" # TODO
-    load_data("sample_cmip_file", cmip_url)
+    load_data("sample_fema_file", fema_url)
     return 
 
