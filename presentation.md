@@ -1,5 +1,4 @@
 # Evaluating flood risk and vulnerability 🌊
-__TOC__
 
 ## Methods
 Compare and combine digital elevation model (DEM), social vulnerability index (SVI), and CMIP5 precipitation projections to evaluate disproportionate risk to precipitation anomalies along population demographic.   
@@ -22,7 +21,7 @@ SVI is a metric created by the CDC using US Census data to help local officials 
 
 
 Variables included:
-<img src="markdown_figs/SVI variables.png" width="80%"/>
+<img src="markdown_figs/SVI variables.png" width="60%"/>
 
 
 Figure shows higher SVI in Southwest coastal Texas: 
@@ -38,7 +37,7 @@ Figure shows higher SVI in Southwest coastal Texas:
 
 
 ### Graphic of DEM and SVI
-<iframe width="300" height="200" frameborder="0" scrolling="no" allowfullscreen src="https://datalab.h-gac.com/RLUIS/?extent=-10839698.2914%2C3419142.4227%2C-10370069.1896%2C3569264.7463%2C102100"></iframe>
+[Land use map of Houston](https://datalab.h-gac.com/RLUIS/)
 
 ### What can be done with this data? 
 
