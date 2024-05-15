@@ -21,12 +21,13 @@ SVI is a metric created by the CDC using US Census data to help local officials 
 :: The degree to which communities are susceptible to external factors such as epidemics and natural disasters. 
 
 
-Figure shows higher SVI in Southwest coastal Texas. 
+Figure shows higher SVI in Southwest coastal Texas: 
 
-![alt text](/markdown_figs/SVI_texas.png)
+![alt text](/markdown_figs/SVI_texas.png){:width="50%"}
 
 Variables included:
-![alt text](/markdown_figs/SVI%20variables.png)
+
+![alt text](/markdown_figs/SVI%20variables.png){:width="50%"}
 
 ## Visualization 
 
@@ -56,7 +57,10 @@ Flood warnings for extreme events should place extra focus on how vulnerable com
 
 ### What's missing here in the models? 
 
-### Use of CMIP5 
+### The state of Earth data
+It's uneven! 
+![Data voids in flood hazard](markdown_figs/pastfloodhazards_1985_2003.png){:width="50%"}
+#### Use of CMIP5 
 - Climate models do well on average, and do not give a complete picture of the possibility of anomalous events.
 - Predicting anomalous events is _hard_
 - Data voids
