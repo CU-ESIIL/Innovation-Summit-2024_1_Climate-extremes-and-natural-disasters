@@ -44,8 +44,6 @@ Variables included:
 - Insert flowchart 
 
 
-
-
 ## Discussion 
 
 ### What can we extrapolate from this? 
@@ -57,6 +55,11 @@ Flood warnings for extreme events should place extra focus on how vulnerable com
  - How can hydrologists and meteorologists better inform local governments on disproportionate community impact?  
 
 ### What's missing here in the models? 
+
+### Use of CMIP5 
+- Climate models do well on average, and do not give a complete picture of the possibility of anomalous events.
+- Predicting anomalous events is _hard_
+- Data voids
 
 ### How do we measure disadvantage and vulnerability ?
 
