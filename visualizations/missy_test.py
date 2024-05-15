@@ -1,10 +1,15 @@
 from data_loader import *
+import subprocess
 
-## CMIP data
-def get_grib():
-    file_path = "data/iplant/home/mwestland/CMC_reg_MU-VT-LI_ISBL_500_ps10km_2024032600_P000.grib2" # TODO'
-    os.path.open(file_path)
-    return 
-    
-## SVI data
+# copies file from a cyverse path to your local data dir 
+def copy_cyverse_file_to_personal(fp):
+    out = subprocess.run(["gocmd", "cp", fp, "."])    
+    return out
+
+# copies file from a cyverse path to our repo data dir
+def copy_cyverse_file_to_group(fp):
+    dest = "/Innovation-Summit-2024_1_Climate-extremes-and-natural-disasters/data"
+    out = subprocess.run(["gocmd", "cp", fp, dest])    
+    return out 
+
 

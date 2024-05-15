@@ -10,18 +10,18 @@ import smtplib
 import requests
 
 
-fema_dir="/data"
-fema_file_url = "" # TODO 
+
 
 ### this method loads data from http request
 ### Assumes you have already loaded the file to the discovery environment 
 ### Destination file name is the name of the file that will be loaded to /data directory
-def load_file(destination_file_name, url):
-    data_destination = '../data/' + destination_file_name
-    url = fema_file_url + fname
-    r = requests.get(url)
-    open(file_name , 'wb').write(r.content)
-    
+def load_file(file_name):
+    data_path = 'Innovation-Summit-2024_1_Climate-extremes-and-natural-disasters/data' 
+    # Use os.path to read file into memory
+    file_path = os.path.join(data_path, file_name)
+    with open(file_path, 'r') as file:
+        data = file.read()
+
 def subset(): 
     pass
 
