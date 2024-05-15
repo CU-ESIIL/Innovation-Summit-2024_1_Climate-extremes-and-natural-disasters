@@ -14,8 +14,19 @@ TODO define specs, what it's used for
 ### CMIP5 
 TODO define specs
 
-### SVI 
-TODO define
+### Social vulnerability index (SVI) 
+SVI is a metric created by the CDC using US Census data to help local officials "identify communities that may need support before, during, or after disasters" ([CDC](https://www.atsdr.cdc.gov/placeandhealth/svi/index.html) )
+
+:Social Vulnerability:
+:: The degree to which communities are susceptible to external factors such as epidemics and natural disasters. 
+
+
+Figure shows higher SVI in Southwest coastal Texas. 
+
+![alt text](/markdown_figs/SVI_texas.png)
+
+Variables included:
+![alt text](/markdown_figs/SVI%20variables.png)
 
 ## Visualization 
 
@@ -28,9 +39,40 @@ TODO define
 ### Graphic of DEM and SVI
 
 
+### What can be done with this data? 
+
+- Insert flowchart 
+
+
+
+
 ## Discussion 
 
 ### What can we extrapolate from this? 
+Extreme weather predictions should be aware of the blind spots in its predictions. 
+
+Flood warnings for extreme events should place extra focus on how vulnerable communities will be affected by an event
+ - Are our warning systems reaching everyone equally? 
+ - Are evacuation routes up to date? 
+ - How can hydrologists and meteorologists better inform local governments on disproportionate community impact?  
 
 ### What's missing here in the models? 
+
+### How do we measure disadvantage and vulnerability ?
+
+"Vulnerability" is not something that we can easily validate or measure. 
+
+#### SVI Issues
+- Variable choice in how this index is calculated is essential, and can greatly influence the result.
+- SVI can lead to results that counter the literature: 
+ "variable-wise contributions ran counter to expectations based on the social scientific literature (e.g., higher poverty levels counterintuitively led to lower SoVI scores)" ([Speilman et al, 2020](https://link.springer.com/article/10.1007/s11069-019-03820-z#Sec11))
+  - Article posted in Natural Hazards Journal 
+
+#### Other indices are available!  
+- Area Deprivation Index (ADI)
+- Child Opportunity Index (COI)
+
+ [Lau et al (2023)](https://www.sciencedirect.com/science/article/abs/pii/S1353829223000345) find that ADI and Child Opportunity Index (COI) are strong indices for community outcomes. 
+    - Future work should investigate the inclusion of these additional indexes. 
+- There is also the Area Deprivation Index (ADI)
 
