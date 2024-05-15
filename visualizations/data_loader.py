@@ -10,7 +10,7 @@ import smtplib
 import requests
 
 
-fema_dir="../data"
+fema_dir="/data"
 fema_file_url = "" # TODO 
 
 ### this method loads data from http request
