@@ -1,5 +1,5 @@
 # Evaluating flood risk and vulnerability 🌊
-
+__TOC__
 
 ## Methods
 Compare and combine digital elevation model (DEM), social vulnerability index (SVI), and CMIP5 precipitation projections to evaluate disproportionate risk to precipitation anomalies along population demographic.   
@@ -21,15 +21,15 @@ SVI is a metric created by the CDC using US Census data to help local officials 
 :: The degree to which communities are susceptible to external factors such as epidemics and natural disasters. 
 
 
-Figure shows higher SVI in Southwest coastal Texas: 
-
-![alt text](/markdown_figs/SVI_texas.png){:width="50%"}
-
 Variables included:
+<img src="markdown_figs/SVI variables.png" width="80%"/>
 
-![alt text](/markdown_figs/SVI%20variables.png){:width="50%"}
 
-## Visualization 
+Figure shows higher SVI in Southwest coastal Texas: 
+<img src="markdown_figs/SVI_texas.png" width="60%" />
+
+
+## Visualization 🖼️
 
 ### Graphic from CMIP5 projections
 
@@ -38,7 +38,7 @@ Variables included:
 
 
 ### Graphic of DEM and SVI
-
+<iframe width="300" height="200" frameborder="0" scrolling="no" allowfullscreen src="https://datalab.h-gac.com/RLUIS/?extent=-10839698.2914%2C3419142.4227%2C-10370069.1896%2C3569264.7463%2C102100"></iframe>
 
 ### What can be done with this data? 
 
@@ -55,17 +55,23 @@ Flood warnings for extreme events should place extra focus on how vulnerable com
  - Are evacuation routes up to date? 
  - How can hydrologists and meteorologists better inform local governments on disproportionate community impact?  
 
-### What's missing here in the models? 
+### What's missing here in the models? 🤔
 
-### The state of Earth data
+### The state of Earth data? 🌍
 It's uneven! 
-![Data voids in flood hazard](markdown_figs/pastfloodhazards_1985_2003.png){:width="50%"}
+![Data voids in flood hazard](markdown_figs/pastfloodhazards_1985_2003.png)
+
+
+
 #### Use of CMIP5 
 - Climate models do well on average, and do not give a complete picture of the possibility of anomalous events.
 - Predicting anomalous events is _hard_
 - Data voids
+- Data biases
+    - Arctic climate performance
+    - Tropical climate performance
 
-### How do we measure disadvantage and vulnerability ?
+### How do we measure disadvantage and vulnerability ? 📈
 
 "Vulnerability" is not something that we can easily validate or measure. 
 
