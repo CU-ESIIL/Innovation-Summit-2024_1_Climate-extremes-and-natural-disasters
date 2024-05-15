@@ -35,7 +35,13 @@ SVI is a metric created by the CDC using US Census data to help local officials 
 
 **Social Vulnerability:** The degree to which communities are susceptible to external factors such as epidemics and natural disasters. 
 
+Variables included:
+
+<img src="markdown_figs/SVI variables.png" width="60%"/>
+
+
 Figure shows higher SVI in Southwest coastal Texas: 
+
 <img src="markdown_figs/SVI.png" width="60%"/>
 
 ## Visualization 🖼️
@@ -46,7 +52,7 @@ Figure shows higher SVI in Southwest coastal Texas:
 - Specs
 
 ### Graphic of DEM and SVI
-<iframe width="300" height="200" frameborder="0" scrolling="no" allowfullscreen src="https://datalab.h-gac.com/RLUIS/?extent=-10839698.2914%2C3419142.4227%2C-10370069.1896%2C3569264.7463%2C102100"></iframe>
+[Land use map of Houston](https://datalab.h-gac.com/RLUIS/)
 
 ### What can be done with this data? 
 
