@@ -15,7 +15,7 @@ Flood warnings for extreme events should place extra focus on how vulnerable com
 It's uneven! 
 ![Data voids in flood hazard](markdown_figs/pastfloodhazards_1985_2003.png)
 
-### Use of CMIP5 
+### Use of CMIP data
 - Climate models do well on average, and do not give a complete picture of the possibility of anomalous events.
 - Predicting anomalous events is _hard_
 - Data biases
