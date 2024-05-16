@@ -11,7 +11,7 @@
 
 
 ## Future: Combination of these datasets
-[study area](markdown_figs/StudyAreaUpdated.png)
+[study area](/markdown_figs/StudyAreaUpdated.jpg)
 
 
 ## What can be done with this data? 
