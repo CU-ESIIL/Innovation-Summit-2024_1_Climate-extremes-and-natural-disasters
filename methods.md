@@ -9,7 +9,7 @@ Compare and combine digital elevation model (DEM), FEMA flood risk, land use, so
 
 ## DEM
 
-We combined digital elevation model (DEM) data often used for hydrology modeling. 
+We combined digital elevation model (DEM) data to get a roughness and relief map to inform the topographic characteristics of the watershed. 
 
 
 _Digital Elevation Model (USGS 30m)_
