@@ -18,3 +18,4 @@
 - [Conclusion](conclusion.md)
 
 
+![Dataflow](/markdown_figs/flowchart.jpeg)

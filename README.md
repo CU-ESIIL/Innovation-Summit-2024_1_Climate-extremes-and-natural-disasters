@@ -13,6 +13,9 @@ How can we combine open datasets and ML to improve extreme flood prediction and 
 
 [Explore](presentation.md)
 
+![Dataflow](/markdown_figs/flowchart.jpeg)
+
+
 ## Group Members
 - Member 1:
   - Name: Ayush Joshi
