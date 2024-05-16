@@ -1,7 +1,6 @@
 [![DOI](https://zenodo.org/badge/800291038.svg)](https://zenodo.org/doi/10.5281/zenodo.11192091)
 # Evaluating extreme flood risk and disproportionate vulnerability in 5 hours 🌊
 
-
 ## Research Question
 How can we combine open datasets and ML to improve extreme flood prediction and flood vulnerability in Houston, Texas?
 

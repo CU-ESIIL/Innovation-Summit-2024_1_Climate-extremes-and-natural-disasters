@@ -52,6 +52,6 @@ Figure shows higher SVI in Southwest coastal Texas:
 <img src="markdown_figs/SVI.png" width="60%"/>
 
 
-[Previous page: Overview](README.md) 
+[Previous page: Overview](presentation.md) 
 
 [Next page: Visualizations](visualizations.md)

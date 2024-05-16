@@ -1,6 +1,8 @@
 # Evaluating extreme flood risk and disproportionate vulnerability in 5 hours 🌊
 
+[HOME](README.md)
 
+Click through the following sections to see our data exploration overview!
 ## Table of Contents
 - [Methods](methods.md) 📚
     - [Region: Houston area](methods.md#region-houston-area) 📍
@@ -19,3 +21,8 @@
 
 
 ![Dataflow](/markdown_figs/flowchart.jpeg)
+
+
+[Previous page: Overview](README.md) 
+
+[Next page: Methods](methods.md)
