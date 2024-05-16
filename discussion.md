@@ -47,8 +47,6 @@ Where are we getting our social demographic data?
     - Future work should investigate the inclusion of these additional indexes. 
 - There is also the Area Deprivation Index (ADI)
 Figure shows higher SVI in Southwest coastal Texas: 
-<img src="markdown_figs/SVI_texas.png" width="60%" />
-
 
 [Previous page: Visualizations](visualizations.md)
 
