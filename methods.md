@@ -5,7 +5,7 @@ Compare and combine digital elevation model (DEM), FEMA flood risk, land use, so
 
 ## Region: Houston area
 
-![alt text](</markdown_figs/StudyArea.png>)
+![alt text](</markdown_figs/StudyAreaUpdated.png>)
 
 ## DEM
 
