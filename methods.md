@@ -26,3 +26,8 @@ Variables included:
 Figure shows higher SVI in Southwest coastal Texas: 
 
 <img src="markdown_figs/SVI.png" width="60%"/>
+
+
+[Previous page: Overview](README.md) 
+
+[Next page: Visualizations](visualizations.md)

@@ -2,102 +2,18 @@
 
 ## Table of Contents
 
-- [Methods](#methods)
-    - [Region: Houston area](#region-houston-area)
-    - [DEM](#dem)
-    - [CMIP5](#cmip5)
-    - [Social vulnerability index (SVI)](#social-vulnerability-index-svi)
-- [Visualization](#visualization)
-    - [Graphic from CMIP5 projections](#graphic-from-cmip5-projections)
-    - [Graphic of DEM and SVI](#graphic-of-dem-and-svi)
-- [Discussion](#discussion)
-    - [What can we extrapolate from this?](#what-can-we-extrapolate-from-this)
-    - [What's missing here in the models?](#whats-missing-here-in-the-models)
-    - [The state of Earth data?](#the-state-of-earth-data)
-    - [How do we measure disadvantage and vulnerability?](#how-do-we-measure-disadvantage-and-vulnerability)
-
-## Methods
-Compare and combine digital elevation model (DEM), social vulnerability index (SVI), and CMIP5 precipitation projections to evaluate disproportionate risk to precipitation anomalies along population demographic.   
-
-### Region: Houston area
-![alt text](</markdown_figs/SVI.png>)
-![alt text](</markdown_figs/land use.png>)
-
-### DEM
-
-TODO define specs, what it's used for
-
-### CMIP5 
-TODO define specs
-
-### Social vulnerability index (SVI) 
-SVI is a metric created by the CDC using US Census data to help local officials "identify communities that may need support before, during, or after disasters" ([CDC](https://www.atsdr.cdc.gov/placeandhealth/svi/index.html) )
-
-**Social Vulnerability:** The degree to which communities are susceptible to external factors such as epidemics and natural disasters. 
-
-Variables included:
-
-<img src="markdown_figs/SVI variables.png" width="60%"/>
-
-
-Figure shows higher SVI in Southwest coastal Texas: 
-
-<img src="markdown_figs/SVI.png" width="60%"/>
-
-## Visualization 🖼️
-
-### Graphic from CMIP5 projections
-
-- Experiment? 
-- Specs
-
-### Graphic of DEM and SVI
-[Land use map of Houston](https://datalab.h-gac.com/RLUIS/)
-
-### What can be done with this data? 
-
-![Dataflow](/markdown_figs/flowchart.jpeg)
-
-## Discussion 
-
-### What can we extrapolate from this? 
-Extreme weather predictions should be aware of the blind spots in its predictions. 
-
-Flood warnings for extreme events should place extra focus on how vulnerable communities will be affected by an event
- - Are our warning systems reaching everyone equally? 
- - Are evacuation routes up to date? 
- - How can hydrologists and meteorologists better inform local governments on disproportionate community impact?  
-
-### What's missing here in the models? 🤔
-
-### The state of Earth data? 🌍
-It's uneven! 
-![Data voids in flood hazard](markdown_figs/pastfloodhazards_1985_2003.png)
-
-#### Use of CMIP5 
-- Climate models do well on average, and do not give a complete picture of the possibility of anomalous events.
-- Predicting anomalous events is _hard_
-- Data voids
-- Data biases
-    - Arctic climate performance
-    - Tropical climate performance
-
-### How do we measure disadvantage and vulnerability ? 📈
-
-"Vulnerability" is not something that we can easily validate or measure. 
-
-#### SVI Issues
-- Variable choice in how this index is calculated is essential, and can greatly influence the result.
-- SVI can lead to results that counter the literature: 
- "variable-wise contributions ran counter to expectations based on the social scientific literature (e.g., higher poverty levels counterintuitively led to lower SoVI scores)" ([Speilman et al, 2020](https://link.springer.com/article/10.1007/s11069-019-03820-z#Sec11))
-  - Article posted in Natural Hazards Journal 
-
-#### Other indices are available!  
-- Area Deprivation Index (ADI)
-- Child Opportunity Index (COI)
-
- [Lau et al (2023)](https://www.sciencedirect.com/science/article/abs/pii/S1353829223000345) find that ADI and Child Opportunity Index (COI) are strong indices for community outcomes. 
-    - Future work should investigate the inclusion of these additional indexes. 
-- There is also the Area Deprivation Index (ADI)
-Figure shows higher SVI in Southwest coastal Texas: 
-<img src="markdown_figs/SVI_texas.png" width="60%" />
+## Table of Contents
+- [Methods](methods.md) 📚
+    - [Region: Houston area](methods.md#region-houston-area) 📍
+    - [DEM](methods.md#dem) 🗺️
+    - [CMIP5](methods.md#cmip5) 📊
+    - [Social vulnerability index (SVI)](methods.md#social-vulnerability-index-svi) 📈
+- [Visualization](visualizations.md) 🖼️
+    - [Graphic from CMIP5 projections](visualizations.md#graphic-from-cmip5-projections) 
+    - [Graphic of DEM and SVI](visualizations.md#graphic-of-dem-and-svi) 
+- [Discussion](discussion.md) 💬
+    - [What can we extrapolate from this?](discussion.md#what-can-we-extrapolate-from-this) 
+    - [What's missing here in the models?](discussion.md#whats-missing-here-in-the-models)
+    - [The state of Earth data?](discussion.md#the-state-of-earth-data)
+    - [How do we measure disadvantage and vulnerability?](discussion.md#how-do-we-measure-disadvantage-and-vulnerability)
+- [Conclusion](conclusion.md)

@@ -42,3 +42,7 @@ It's uneven!
 - There is also the Area Deprivation Index (ADI)
 Figure shows higher SVI in Southwest coastal Texas: 
 <img src="markdown_figs/SVI_texas.png" width="60%" />
+
+[Previous page: Visualizations](visualizations.md) 
+
+[Next page: Discussion](discussion.md)
