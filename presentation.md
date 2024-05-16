@@ -1,6 +1,5 @@
 # Evaluating extreme flood risk and disproportionate vulnerability in 5 hours 🌊
 
-## Table of Contents
 
 ## Table of Contents
 - [Methods](methods.md) 📚
@@ -17,3 +16,5 @@
     - [The state of Earth data?](discussion.md#the-state-of-earth-data)
     - [How do we measure disadvantage and vulnerability?](discussion.md#how-do-we-measure-disadvantage-and-vulnerability)
 - [Conclusion](conclusion.md)
+
+

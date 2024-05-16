@@ -1,25 +1,17 @@
 [![DOI](https://zenodo.org/badge/800291038.svg)](https://zenodo.org/doi/10.5281/zenodo.11192091)
-
-#Google Doc
-https://docs.google.com/document/d/1w8bWDFltqXovcVFB7_UEgGl0Qns2dN_S9NtCzSO7E2I/edit?usp=sharing
-
-# Climate extremes and natural disasters
-
-Welcome to the **Climate extremes and natural disasters** repository, an integral part of ESIIL and Earth Lab's Forest Carbon Codefest. This repository is the central hub for our team, encompassing our project overview, team member information, codebase, and more...
-
-#practice edit
-
-## Our Project
-This research project aims to conduct a comprehensive comparison of current precipitation flood risk derived from the Coupled Model Intercomparison Project (CMIP) and other relevant sources with the Social Vulnerability Index (SVI). The goal is to understand how projected changes in precipitation patterns can impact areas with varying degrees of social vulnerability. We also aim to identify the gaps and biases in the methods available to generate these models in order to determine how such models could fail. 
-
-The primary objectives of this project are:
-- To evaluate and synthesize current precipitation flood risk predictions from CMIP datasets
-- To assess the geographical correlation between these predictions and areas ranked on the SVI
-- To identify regions at high risk of flooding that also exhibit high SVI, indicating a compounded potential for disaster
+# Evaluating extreme flood risk and disproportionate vulnerability in 5 hours 🌊
 
 
-## Documentation
-- Access detailed documentation on our [GitHub Pages site](https://your-gh-pages-url/).
+## Research Question
+How can we combine open datasets and ML to improve extreme flood prediction and flood vulnerability in Houston Texas. 
+
+## Objectives 
+
+1. Evaluating and synthesizing current precipitation flood risk predictions
+1. Assessing the spatial correlation between flood predictions and social vulnerability. 
+1. Identifying regions indicating a compounded risk for flood hazard.
+
+[Explore](presentation.md)
 
 ## Group Members
 - Member 1:

@@ -1,17 +1,35 @@
 
 # Methods
-Compare and combine digital elevation model (DEM), social vulnerability index (SVI), and CMIP5 precipitation projections to evaluate disproportionate risk to precipitation anomalies along population demographic.   
+Compare and combine digital elevation model (DEM), FEMA flood risk, land use, social vulnerability index (SVI), and CMIP5 precipitation projections to evaluate disproportionate risk to precipitation anomalies along population demographic.   
+
 
 ## Region: Houston area
-![alt text](</markdown_figs/SVI.png>)
-![alt text](</markdown_figs/land use.png>)
+
+![alt text](</markdown_figs/StudyArea.png>)
 
 ## DEM
 
-TODO define specs, what it's used for
+We combined digital elevation model (DEM) data often used for hydrology modeling. 
 
-## CMIP5 
-TODO define specs
+
+_Digital Elevation Model (USGS 30m)_
+
+
+## Land Use
+
+Land use and land cover map [City of Houston GIS Hub](https://gishub-h-gac.hub.arcgis.com/pages/b0970d93444742268790ec9d4161e742)
+
+
+## FEMA 
+
+Hydrometric data (FEMA Flood Map over 50 or 100 years later)
+
+## CMIP 
+
+The Climate Model Intercomparison versions 5 and 6 contain maximum precipitation estimates over extended periods (25, 50, 100 years). 
+
+These models are the best we have to give us a good picture of climatology for temperature, precipitation, etc.
+
 
 ## Social vulnerability index (SVI) 
 SVI is a metric created by the CDC using US Census data to help local officials "identify communities that may need support before, during, or after disasters" ([CDC](https://www.atsdr.cdc.gov/placeandhealth/svi/index.html) )

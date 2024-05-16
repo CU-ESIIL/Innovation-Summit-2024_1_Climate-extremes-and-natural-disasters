@@ -18,7 +18,6 @@ It's uneven!
 ### Use of CMIP5 
 - Climate models do well on average, and do not give a complete picture of the possibility of anomalous events.
 - Predicting anomalous events is _hard_
-- Data voids
 - Data biases
     - Arctic climate performance
     - Tropical climate performance
@@ -26,6 +25,13 @@ It's uneven!
 ## How do we measure disadvantage and vulnerability ? 📈
 
 "Vulnerability" is not something that we can easily validate or measure. 
+
+
+Where are we getting our social demographic data?
+- Is it coming from government census? 
+- If so, who isn't answering it, and can we trust the answers inherently?
+
+
 
 ### SVI Issues
 - Variable choice in how this index is calculated is essential, and can greatly influence the result.
@@ -43,6 +49,7 @@ It's uneven!
 Figure shows higher SVI in Southwest coastal Texas: 
 <img src="markdown_figs/SVI_texas.png" width="60%" />
 
-[Previous page: Visualizations](visualizations.md) 
 
-[Next page: Discussion](discussion.md)
+[Previous page: Visualizations](visualizations.md)
+
+[Next page: Conclusion](conclusion.md)
