@@ -30,6 +30,12 @@ The Climate Model Intercomparison versions 5 and 6 contain maximum precipitation
 
 These models are the best we have to give us a good picture of climatology for temperature, precipitation, etc.
 
+## Example data from 100-year CMIP6 projections
+From:  [Global exposure to flooding from the new CMIP6 climate model projections](https://www.nature.com/articles/s41598-021-83279-w) (Hirabayashi et al 2021)
+CMIP6 has n-year flood discharge predictions that we can factor into our spatial data. 
+![alt text](/markdown_figs/cmip6.png)
+
+
 
 ## Social vulnerability index (SVI) 
 SVI is a metric created by the CDC using US Census data to help local officials "identify communities that may need support before, during, or after disasters" ([CDC](https://www.atsdr.cdc.gov/placeandhealth/svi/index.html) )

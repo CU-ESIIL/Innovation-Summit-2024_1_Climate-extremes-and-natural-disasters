@@ -1,10 +1,5 @@
 # Visualization 🖼️
 
-## Graphic from CMIP projections
-
-CMIP6 has n-year flood discharge predictions that we can factor into our spatial data. 
-![alt text](cmip6.png)
-
 
 ## Graphic of DEM and SVI
 
@@ -14,8 +9,12 @@ CMIP6 has n-year flood discharge predictions that we can factor into our spatial
 
 ![FEMA flood risk map](/markdown_figs/mohammad_floodrisk.png)
 
-## What can be done with this data? 
 
+## Future: Combination of these datasets
+[study area](markdown_figs/StudyArea.png)
+
+
+## What can be done with this data? 
 
 [LucidChart](https://lucid.app/lucidchart/41ddc3fc-f499-4ce9-b441-21d1570b53fa/edit?invitationId=inv_d9a3fa74-9b31-4f3b-b390-92864852af52 )
 ![Dataflow](/markdown_figs/flowchart.jpeg)
