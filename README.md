@@ -3,7 +3,7 @@
 
 
 ## Research Question
-How can we combine open datasets and ML to improve extreme flood prediction and flood vulnerability in Houston Texas. 
+How can we combine open datasets and ML to improve extreme flood prediction and flood vulnerability in Houston, Texas?
 
 ## Objectives 
 
