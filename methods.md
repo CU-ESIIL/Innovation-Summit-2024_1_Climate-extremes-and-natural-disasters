@@ -1,6 +1,6 @@
 
 # Methods
-Compare and combine digital elevation model (DEM), FEMA flood risk, land use, social vulnerability index (SVI), and CMIP5 precipitation projections to evaluate disproportionate risk to precipitation anomalies along population demographic.   
+Compare and combine digital elevation model (DEM), FEMA flood risk, land use, social vulnerability index (SVI), and CMIP5 precipitation projections to evaluate disproportionate risk to precipitation anomalies.
 
 
 ## Region: Houston area
